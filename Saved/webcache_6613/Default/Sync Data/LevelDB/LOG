@@ -1,2 +1,3 @@
-2026/04/07-16:06:33.415 20b8 Creating DB C:\Work\RandomItem\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/04/07-16:06:33.460 20b8 Reusing MANIFEST C:\Work\RandomItem\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/07-17:33:46.320 1154 Reusing MANIFEST C:\Work\RandomItem\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/07-17:33:46.321 1154 Recovering log #3
+2026/04/07-17:33:46.321 1154 Reusing old log C:\Work\RandomItem\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 

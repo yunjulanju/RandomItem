@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/RandomItem/Content/Data/ST_Item.uasset",
+				"C:/Work/RandomItem/Content/Data/Struct/ST_Item.uasset",
+				"C:/Work/RandomItem/Content/Data/DataTable/DT_Item.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/archery.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/coin.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/flame.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/potion.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/ring.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/shield.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/crystal.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/shoose.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/magicstaff.uasset",
+				"C:/Work/RandomItem/Content/UI/Texture/cloak.uasset",
+				"C:/Work/RandomItem/Content/Level/StartMap.umap",
+				"C:/Work/RandomItem/Content/Blueprints/BP_Gamemode.uasset",
+				"C:/Work/RandomItem/Content/Blueprints/BP_Player.uasset",
+				"C:/Work/RandomItem/Content/Blueprints/BP_HUD.uasset",
+				"C:/Work/RandomItem/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Work/RandomItem/Content/UI/WBP_MainScreen.uasset",
+				"C:/Work/RandomItem/Content/UI/WBP_ItemInfo.uasset"
+			]
+		}
+	]
+}
